@@ -11,9 +11,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Chicago, IL, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,7 +31,6 @@ Hi, I am **Hammad Farooq**, a Bioinformatics PhD candidate at UIC. My work cente
 
 **Contact**  
 Email: [hfaroo21@uic.edu](mailto:hfaroo21@uic.edu)  
-Phone: 773 712 3054  
 LinkedIn: [linkedin.com/in/hammad-farooq-raja](https://linkedin.com/in/hammad-farooq-raja)
 
 **Core skills**  
