@@ -4,6 +4,8 @@ title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
+
+
 profile:
   align: right
   image: prof_pic.jpg
@@ -27,8 +29,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am **Hammad Farooq**, a Bioinformatics PhD candidate at UIC. My work centers on regulatory genomics and enhancer to gene mapping with integrative analysis of Hi C, RNA seq, eQTL and GWAS. I build and apply 3D genome modeling and machine learning at scale on HPC systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Contact**  
+Email: [hfaroo21@uic.edu](mailto:hfaroo21@uic.edu)  
+Phone: 773 712 3054  
+LinkedIn: [linkedin.com/in/hammad-farooq-raja](https://linkedin.com/in/hammad-farooq-raja)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Core skills**  
+Python, R, C plus plus, SQL, Bash, Java, Perl  
+Hi C, RNA seq, ATAC seq, ChIP seq, eQTL, GWAS, scRNA seq, variant annotation  
+Regression, classification, clustering, CNN, RNN, transformers, autoencoders  
+DESeq2, edgeR, PLINK, vcftools, HiCExplorer, Fit-Hi-C, MACS2, Bowtie, BWA, Samtools, HOMER  
+MPI, OpenMP, OpenACC, CUDA, GPU offload, Parsl. Slurm, PBS, COBALT
+
+**Advisors**  
+[Jie Liang](https://bme.uic.edu/profiles/jie-liang-phd/) and [Constantinos Chronis](https://chicago.medicine.uic.edu/bmg/profiles/chronis-constantinos/)
+
