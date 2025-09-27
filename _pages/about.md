@@ -14,16 +14,16 @@ profile:
     <p>Chicago, IL, USA</p>
 
 selected_papers: False # includes a list of papers marked as "selected={true}"
-social: False # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: False # includes a list of news items
+  scrollable: False # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: False
+  scrollable: False # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
