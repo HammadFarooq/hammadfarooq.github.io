@@ -2,15 +2,23 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+scholar_userid: DOpJvZ4AAAAJ
+research_gate_profile: Hammad-Farooq-3
+orcid_id: 0000-0001-5691-298X
+scopus_id: 57215284135
+semanticscholar_id: Hammad-Farooq/91474217
+linkedin_username: hammad-farooq-raja
+bluesky_url: https://bsky.app/profile/hammad-farooq.bsky.social
+x_username: Hammad_Farooq_
+email: rajahammadfarooq96@gmail.com
+
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
 #  organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
-bluesky_url: https://bsky.app/profile/hammad-farooq.bsky.social
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: rajahammadfarooq96@gmail.com 
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -24,19 +32,13 @@ email: rajahammadfarooq96@gmail.com
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: hammad-farooq-raja
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: 0000-0001-5691-298X
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-research_gate_profile: Hammad-Farooq
 # rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: DOpJvZ4AAAAJ 
-scopus_id: 57215284135
-semanticscholar_id: Hammad-Farooq/91474217
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
 # strava_userid: # your strava user id
@@ -47,7 +49,6 @@ semanticscholar_id: Hammad-Farooq/91474217
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-x_username: Hammad_Farooq_
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
