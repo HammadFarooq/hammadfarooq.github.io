@@ -17,7 +17,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: bioinformatics, genomics, chromatin, 3D genome, Hi-C, Genetics
+keywords: bioinformatics, Genetics, regulatory genomics, three dimensional genome, chromatin architecture, chromatin interactions, enhancer promoter mapping, variant to gene mapping, multi omics integration, single cell genomics, gene regulation, Hi C, promoter capture Hi C, genome architecture mapping
+
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -52,10 +53,10 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -202,6 +203,7 @@ exclude:
   - _pages/dropdown.md
   - _pages/books.md
   - _pages/blog.md
+  - _pages/projects.md
   - purgecss.config.js
   - README.md
   - readme_preview/

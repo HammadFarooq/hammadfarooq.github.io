@@ -27,19 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am **Hammad Farooq**, a Bioinformatics PhD candidate at UIC. My work centers on regulatory genomics and enhancer to gene mapping with integrative analysis of Hi C, RNA seq, eQTL and GWAS. I build and apply 3D genome modeling and machine learning at scale on HPC systems.
+Hammad Farooq is a Bioinformatics PhD candidate at the [University of Illinois Chicago](https://www.uic.edu) specializing in computational regulatory genomics and genetics. He is co supervised by [Constantinos Chronis](https://chicago.medicine.uic.edu/bmg/profiles/chronis-constantinos/) and [Jie Liang](https://bme.uic.edu/profiles/jie-liang-phd/).
 
-**Contact**  
-Email: [hfaroo21@uic.edu](mailto:hfaroo21@uic.edu)  
-LinkedIn: [linkedin.com/in/hammad-farooq-raja](https://linkedin.com/in/hammad-farooq-raja)
+His core research aims to decipher how three dimensional genome architecture regulates gene expression and disease by developing computational methods that integrate genomics and human genetics. He builds polymer folding models to infer chromatin architecture at single cell resolution. These approaches enable accurate mapping of enhancer to promoter communication, prioritization of causal variants from genome wide association studies with assignment of their target genes, and inference of higher order multi body chromatin contacts that shape transcription.
 
-**Core skills**  
-Python, R, C plus plus, SQL, Bash, Java, Perl  
-Hi C, RNA seq, ATAC seq, ChIP seq, eQTL, GWAS, scRNA seq, variant annotation  
-Regression, classification, clustering, CNN, RNN, transformers, autoencoders  
-DESeq2, edgeR, PLINK, vcftools, HiCExplorer, Fit-Hi-C, MACS2, Bowtie, BWA, Samtools, HOMER  
-MPI, OpenMP, OpenACC, CUDA, GPU offload, Parsl. Slurm, PBS, COBALT
-
-**Advisors**  
-[Jie Liang](https://bme.uic.edu/profiles/jie-liang-phd/) and [Constantinos Chronis](https://chicago.medicine.uic.edu/bmg/profiles/chronis-constantinos/)
+See the [Publications](/publications/) page for a complete list of works, and an up to date profile on [Google Scholar](https://scholar.google.com/citations?user=DOpJvZ4AAAAJ).
 
