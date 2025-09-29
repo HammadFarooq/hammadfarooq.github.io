@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>Chicago IL</p>
-  <a href="/assets/pdf/HammadFarooq_CV.pdf">CV</a></p>
+    <p>Chicago IL</p>
+    <p><a href="/assets/pdf/HammadFarooq_CV.pdf">CV</a></p>
 
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
