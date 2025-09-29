@@ -6,8 +6,8 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.png
-  image_circular: True # crops the image to make it circular
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Chicago, IL, USA</p>
 
@@ -30,4 +30,7 @@ Hammad Farooq is a Bioinformatics PhD candidate at the [University of Illinois C
 His core research aims to decipher how three dimensional genome architecture regulates gene expression and disease by developing computational methods that integrate genomics and human genetics. He builds polymer folding models to infer chromatin architecture at single cell resolution. These approaches enable accurate mapping of enhancer to promoter communication, prioritization of causal variants from genome wide association studies with assignment of their target genes, and inference of higher order multi body chromatin contacts that shape transcription.
 
 See the [Publications](/publications/) page for a complete list of works, and an up to date profile on [Google Scholar](https://scholar.google.com/citations?user=DOpJvZ4AAAAJ).
+
+[Download CV](/assets/pdf/HammadFarooq_CV.pdf){: .btn .btn-primary }
+
 

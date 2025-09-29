@@ -11,7 +11,7 @@ author:
   email: "rajahammadfarooq96@gmail.com"
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Preferred contact is email or LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Bioinformatics PhD candidate at UIC. I study how 3D genome folding and chromatin state shape gene regulation across tissues.
 footer_text: >
@@ -28,6 +28,16 @@ baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
+
+navbar:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Publications
+    url: /publications/
+  - title: CV
+    url: /assets/pdf/HammadFarooq_CV.pdf
 
 # -----------------------------------------------------------------------------
 # Theme
