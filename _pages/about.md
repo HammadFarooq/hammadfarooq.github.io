@@ -31,6 +31,6 @@ His core research aims to decipher how three dimensional genome architecture reg
 
 See the [Publications](/publications/) page for a complete list of works, and an up to date profile on [Google Scholar](https://scholar.google.com/citations?user=DOpJvZ4AAAAJ).
 
-[Download CV](/assets/pdf/HammadFarooq_CV.pdf){: .btn .btn-primary }
+[Download CV](/assets/pdf/HammadFarooq_CV.pdf)
 
 
