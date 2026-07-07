@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hammad Farooq is a Bioinformatics PhD candidate at the [University of Illinois Chicago](https://www.uic.edu) specializing in computational regulatory genomics and genetics. He is co supervised by [Constantinos Chronis](https://chicago.medicine.uic.edu/bmg/profiles/chronis-constantinos/) and [Jie Liang](https://bme.uic.edu/profiles/jie-liang-phd/).
+Hammad Farooq completed his PhD in Bioinformatics at the [University of Illinois Chicago](https://www.uic.edu) specializing in computational regulatory genomics and genetics. He was co supervised by [Constantinos Chronis](https://chicago.medicine.uic.edu/bmg/profiles/chronis-constantinos/) and [Jie Liang](https://bme.uic.edu/profiles/jie-liang-phd/).
 
 His core research aims to decipher how three dimensional genome architecture regulates gene expression and disease by developing computational methods that integrate genomics and human genetics. He builds polymer folding models to infer chromatin architecture at single cell resolution. These approaches enable accurate mapping of enhancer to promoter communication, prioritization of causal variants from genome wide association studies with assignment of their target genes, and inference of higher order multi body chromatin contacts that shape transcription.
 
