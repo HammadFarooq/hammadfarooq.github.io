@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p><a href="/assets/pdf/HammadFarooq_CV.pdf" target="_blank" rel="noopener">View CV (PDF)</a></p>
+  # more_info: >
+  #   <p><a href="/assets/pdf/HammadFarooq_CV.pdf" target="_blank" rel="noopener">View CV (PDF)</a></p>
 
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -35,7 +35,7 @@ More broadly, he is interested in developing interpretable computational methods
 
 See the [Publications](/publications/) page for a complete list of works and his [Google Scholar](https://scholar.google.com/citations?user=DOpJvZ4AAAAJ) profile for the latest updates.
 
-[Download CV](/assets/pdf/HammadFarooq_CV.pdf)
+<!-- [Download CV](/assets/pdf/HammadFarooq_CV.pdf) -->
 
 
 
